@@ -1,0 +1,24 @@
+[33mcommit eb74123e1238d16921cef287b917f9753a3eed3f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 2d39be3 145507b
+Author: piyushOP <pk930558@gmail.com>
+Date:   Fri Dec 25 18:17:08 2020 +0530
+
+    Merge branch 'main' of https://github.com/piyushOP/Contact-App-React into main
+
+[33mcommit 2d39be359dc36232278db457b9bd5d5e903fc64f[m
+Author: piyushOP <pk930558@gmail.com>
+Date:   Fri Dec 25 18:08:32 2020 +0530
+
+    Alert context is done & register and login form is completed
+
+[33mcommit 145507bc9326ead6acf89f765d4e110fc40a6436[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: piyushOP <71317847+piyushOP@users.noreply.github.com>
+Date:   Fri Dec 25 16:42:20 2020 +0530
+
+    Create README.md
+
+[33mcommit e4fa8c8e98f8fadf3a182576a4e98b3b0b7a97ac[m
+Author: piyushOP <pk930558@gmail.com>
+Date:   Fri Dec 25 16:38:54 2020 +0530
+
+    Contact context is done & Auth Context is Left
